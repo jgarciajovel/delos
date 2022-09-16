@@ -47,7 +47,7 @@ module.exports = {
         async function wallet() {
             try {
                 sails.log.info(':: 📣  Creating Wallet');
-                const client = new EffectClient('jungle');
+                const client = new EffectClient('mainnet');
             
                 // Instantiating bsc account.
                 // const account = createAccount('d2a2c812325ec34e8bdbdb8792ee1efc00cb58be9b57a1b8f8e4c20c139c1d54');

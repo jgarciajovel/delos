@@ -38,7 +38,7 @@ module.exports = {
 
       const private_key = inputs.private_key;
 
-      const client = new EffectClient('jungle');
+      const client = new EffectClient('mainnet');
             
       // Instantiating bsc account.
       const account = createAccount(private_key);
