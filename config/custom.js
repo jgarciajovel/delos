@@ -22,7 +22,7 @@ module.exports.custom = {
   private_key: '0x55e383c0fb85338ae975774447d49c8ac0bdbf92e48d81d324d8582c549d3d14',
   account_name: '0x78fE75F3fE12cEb7DAaAe614e72342A8B73861BD',
 
-  // private_key: '0xd2a2c812325ec34e8bdbdb8792ee1efc00cb58be9b57a1b8f8e4c20c139c1d54', // testnet jungle
+  // private_key: '0xd2a2c812325ec34e8bdbdb8792ee1efc00cb58be9b57a1b8f8e4c20c139c1d54', // testnet jungle -
   // account_name: '4a7191a8b997c6d786a21562732ca59f8c1d3c71',
   id_account: 117,
 
