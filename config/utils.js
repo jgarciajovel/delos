@@ -3,7 +3,7 @@ module.exports.utils = {
     campaigns: async function(cb) {
         // Get User Effect Account
         var user = await User.findOne({
-            id: '6324c37a35b4ae00b2f10d1c'
+            id: '6325602bbaacc70004fbdb2b'
         });
 
         var client = await sails.helpers.connect.with({
@@ -49,7 +49,7 @@ module.exports.utils = {
         try {
             // Get User Effect Account
             var user = await User.findOne({
-                id: '6324c37a35b4ae00b2f10d1c'
+                id: '6325602bbaacc70004fbdb2b'
             });
 
             var client = await sails.helpers.connect.with({
